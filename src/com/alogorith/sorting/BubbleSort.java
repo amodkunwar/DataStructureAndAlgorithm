@@ -1,5 +1,14 @@
 package com.alogorith.sorting;
 
+/**
+ * In place algorithm 
+ * O(n2) time complexity - quadatic 
+ * It will take 100 steps to sort 10 items, 10000 steps to sort 100 items Algorithms degrades quickly
+ * 
+ * @author amodk
+ *
+ */
+
 public class BubbleSort {
 
 	public static void main(String[] args) {
