@@ -1,5 +1,17 @@
 package com.alogorith.sorting;
 
+/**
+ * In place algorithm
+ * O(n2) time complexity - quadratic
+ * It will take 100 steps to sort 10 items and so on
+ * Does not require as much as swapping as bubble sort
+ * Unstable sort algorithm
+ * 
+ * 
+ * 
+ * @author amodk
+ *
+ */
 public class SelectionSort {
 
 	public static void main(String[] args) {
